@@ -1265,7 +1265,7 @@
 
     $union->all();
 
-    // [1 => ['a'], 2 => ['b'], [3 => ['c']]
+    // [1 => ['a'], 2 => ['b'], 3 => ['c']]
 
 <a name="method-unique"></a>
 #### `unique()` {#collection-method}
